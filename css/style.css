@@ -1,7 +1,26 @@
 h1 {
     font-weight: 900;
-    font-size: 40px;
+    font-size: 42px;
     margin-bottom: 0px;
+}
+
+figure{
+    margin-left: 0px;
+}
+
+ul {
+    list-style-type: disc; 
+    padding-left: 0;       
+    margin-left: 10px;       
+}
+
+th{
+    text-align: left;
+}
+
+thead{
+    background-color: rgb(55, 151, 216);
+    color: white;
 }
 
 .sezione-logo {
@@ -13,6 +32,7 @@ h1 {
 
 .sezione-titolo{
     padding-right: 10%;
+
 }
 
 .scritta-grigia{
@@ -24,8 +44,33 @@ h1 {
     color: rgb(58, 173, 245);
 }
 
+.paragrafi-foto{
+    margin: 0px;
+}
+
+.testo-evidenziato{
+    background-color: yellow;
+}
+
+.td-25{
+    width: 25%;
+}
+
+.td-50{
+    width: 50%;
+}
+
+.riga-blu-scuro{
+    background-color: rgb(0, 106, 255);
+}
+
+.riga-blu-chiaro{
+    background-color: rgb(0, 242, 255);
+}
+
 #logo-pagina {
     width: 7rem;
     position: relative;
     top: 30px;
 }
+
