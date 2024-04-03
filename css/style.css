@@ -1,0 +1,31 @@
+h1 {
+    font-weight: 900;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+.sezione-logo {
+    background-image: url(../img/pattern.png);
+    background-size: auto 8rem;
+    background-color: deepskyblue;
+    height: 4rem;
+}
+
+.sezione-titolo{
+    padding-right: 10%;
+}
+
+.scritta-grigia{
+    color: rgb(150, 149, 149);
+    margin: 0px;
+}
+
+.scritta-celeste{
+    color: rgb(58, 173, 245);
+}
+
+#logo-pagina {
+    width: 7rem;
+    position: relative;
+    top: 30px;
+}
